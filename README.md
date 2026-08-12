@@ -1,3 +1,12 @@
 # cold-start-latency-investigation
-Spring Boot — Cold Start: investigation, approaches and code-by-code guide
-Cold Start latency investigation with practical analysis, metrics, and optimization insights.
+- Problem / symptoms
+- Architecture
+- Root cause
+- Investigation
+- Why API Gateway returned 504
+- Remediation
+- ECS configuration
+- Spring Boot optimization
+- Health-check configuration
+- Warm-up strategy
+- Lessons learned
